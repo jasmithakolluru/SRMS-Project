@@ -1,2 +1,2 @@
 # SRMS-Project
-Student Attendance Management System is a C-based console application that tracks student attendance using bitwise operations. It allows marking present/absent, counting totals, checking individual status, and updating records through a simple menu-driven interface for fast and accurate attendance handling.
+Student Record Management System (SRMS) is a C-based console application that automates student record handling. It features secure user login, role-based access, and full CRUD operations. All data is stored using text files, making the system simple, portable, and ideal for academic use.
